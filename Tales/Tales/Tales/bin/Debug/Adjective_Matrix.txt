@@ -1,0 +1,15 @@
+A;21;Beautiful;Destitute;Disguised;Doomsaying;Enchanted;False;Foolish;Friendly;Garrulous;Handsome;Healer;Imprisoned;Lonely;Lost;Lovesick;Mad;Powerful;Vengeful;Wealthy;Wicked;Wise
+B;18;All-powerful;Beautiful;Bumbling;Crafty;Disguised;Doomed;Evil;Kindly;Learned;Lovesick;Mad;Mighty;Needy;Noble;Powerful;Self-Sacrificial;Trapped;Vengeful
+C;20;Crafty;Dangerous;Desitute;Diseased;Disguised;Drunken;Dying;Enchanted;Friendly;Heart-rending;Hideous;Hypnotic;Impudent;Insane;Lovesick;Possessed;Powerful;Toothless;Ugly;Wicked
+D;20;Adulterous;Armed;Busy;Crafty;Destitute;Disguised;Drunken;Foolish;Greedy;Happy;Lovesick;Mad;Needy;Powerful;Repentant;Runaway;Skillful;Wealth;Wicked;Wise
+E;13;Ancient;Fabulous;Glittering;Guarded;Hidden;Jeweled;Minor;Mysterious;Ruined;Secret;Small;Strange;Wonderful
+F;13;Beautiful;Black;Dark;House;Huge;Magical;Mild;Mysterious;Mystic;Rock;Sand;Terrible;Treacherous
+G;1;Badly
+H;2;Pursuing;Vengeful
+I;15;Blind;Bloodthirsty;Con;Fearful;Friendly;Greedy;Hungry;Mad;Malicious;Merry;Multitudinous;Old;Sad;Strange;Wicked
+J;10;Dark;Egg of;Enchanted;Fine;Flying;Ghostly;Horrible;Hungry;Talking;Unknown
+K;6;Friendly;Foolish;Ugly;Craft;Mad;Wicked
+L;20;Beautiful;Cheating;Destitute;Disguised;Enchanted;Foolish;Friendly;Garrulous;Handsome;Imprisoned;Lonely;Lost;Lovesick;Mad;Powerful;Puissant;Vengeful;Wealthy;Whirling;Wicked
+M;11;All-powerful;Angry;Beautiful;Demonic;Evil;Kindly;Learned;Lovesick;Noble;Trapped;Vengeful
+N;18;Ape Island;Barber;Crystal Palace;Dendan;Elephant;Elephant's Graveyard;Islands of Camphor;Lion;Magnetic Mountain;Palace of 100 Closets;Pavilion of the Black Giant;Pearl Diving;Rhino;Serpent;Sex-Change Spring;Valley of Dogs;Volcano;Warfleet
+O;7;Beautiful;Bloodthirsty;Cold;Crafty;Mad;Mighty;Practical Joker

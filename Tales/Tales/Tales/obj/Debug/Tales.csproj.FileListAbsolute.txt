@@ -1,0 +1,14 @@
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.exe.config
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.exe
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.pdb
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.csproj.CoreCompileInputs.cache
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.exe
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.pdb
+C:\Users\Cedrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.csprojAssemblyReference.cache
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.csprojAssemblyReference.cache
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.csproj.CoreCompileInputs.cache
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.exe
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\obj\Debug\Tales.pdb
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.exe.config
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.exe
+C:\Users\Cédrick\Dropbox\Tales\Tales\Tales\bin\Debug\Tales.pdb

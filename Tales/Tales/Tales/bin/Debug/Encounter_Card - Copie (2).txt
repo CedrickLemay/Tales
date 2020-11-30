@@ -1,0 +1,3 @@
+﻿City;Cordoue;37;E,Esclave,107;E,Flotte de guerre,N;E,Vieil Homme,I;T,1;S,-1;SE,12,Serpent,N
+Terrain;Iles au camphre;19;21;20;23;24;-1
+Character;Enchanteresse;114;115;117

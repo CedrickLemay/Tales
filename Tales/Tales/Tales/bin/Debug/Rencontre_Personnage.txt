@@ -1,0 +1,14 @@
+Character;Sage;85;90;99
+Character;Esclave;97;92;107
+Character;Princess;109;110;113
+Character;Magicien;84;88;95
+Character;Prince;87;95;102
+Character;Bon-a-rien;97;92;108
+Character;Prophete;85;90;98
+Character;Efrit;94;118;119
+Character;Efrite;116;120;121
+Character;Voleur;97;92;106
+Character;Bossu;86;91;101
+Character;Mendiant;86;91;105
+Character;Sorciere;86;91;100
+Character;Enchanteresse;114;115;117

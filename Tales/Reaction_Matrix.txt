@@ -1,0 +1,16 @@
+A;9;Grovel;Aid;Rob;Avoid;Converse;Attack;Court;Abduct;Honor
+B;9;Grovel;Aid;Rob;Avoid;Bargain;Attack;Court;Trick;Hire
+C;8;Beat;Enrich;Rob;Avoid;Question;Attack;Follow;Hire
+D;8;Punish;Aid;Rob;Question;Attack;Abduct;Buy;Hire
+E;8;Examine;Take;Use;Open;Avoid;Sneak;Hire help;Enter
+F;8;Pray;Avoid;Wait;Cry out;Drink;Examine;Travel;Hide
+G;6;Pray for guidance;Wait for help;Cry out for help;Examine surroundings;Set forth;Hide safely
+H;7;Grovel;Converse;Trick;Bargain;Attack;Flee;Avoid
+I;8;Honor;Attack;Avoid;Aid;Rob;Follow;Question;Pray
+J;8;Pray;Study;Capture;Attack;Follow;Aid;Seek aid;Hide
+K;8;Grovel;Honor;Bribe;Converse;Trick;Attack;Attempt to escape;Wait
+L;9;Attack;Aid;Rob;Avoid;Barter;Honor;Court;Abduct;Hire
+M;6;Grovel;Aid;Avoid;Bargain;Attack;Trick
+N;8;Avoid;Pray;Attack;Bargain;Examine;Enter;Seek aid;Aid
+O;7;Grovel;Aid;Avoid;Bargain;Attack;Trick;Hire
+

@@ -1,0 +1,18 @@
+City;Cordoue;37;E,Esclave,107;E,Flotte de guerre,N;E,Vieil Homme,I;T,1;S,-1;SE,12,Serpent,N
+City;Tana;70;W,1,4;D,2;GS,21;E,Iles au Camphre,N;S,15;SE,2,Pêcheur de perles,N
+City;Andrinople;1;W,1,5;H,2;T,1;GS,2;H,3;SE,6,Montagne magnétique,N
+City;Su-Chou;43;E,Ile aux Singes,N;US,1;E,Goule Affamée,I;W,2,5;D,3;SE,10,Flotte de guerre,N
+City;Leon;74;D,1;E,Iles au Camphre,N;T,1;LS;S,17;SE,1,Volcan,N
+City;Serendib;54;H,2;S,10;E,Ondin Sympathique,I;W,2,5;E,Dendan,N;SE,11,Iles des Singes,N
+City;Daybul;81;D,1;T,1;GS,2;S,6;E,Palais aux 100 Pièces,N;SE,15,Vallée des chiens,N
+City;Samarcande;81;S,1;E,Magicien Impitoyable,O;D,2;H,2;T,1;SE,4,Vallée des chiens,N
+City;Zaila;1;E,Vizir Cruel,I;W,1,3;H,1;T,1;GS,3;SE,14,Rhinocéros,N
+City;Bantous;8;GS,-1;W,2,4;US,1;E,Efrite,121;LS;SE,0,Pêcheur de perles,N
+City;Tripoli;15;E,Sorcière,100;E,Barbier,N;E,Belle Enchanteresse,O;D,2;S,9;SE,7,Lion,N
+City;Alexandrie;22;S,15;E,Bon-à-rien,97;D,1;D,2;E,Fontaine du Changement de Sexe,N;SE,8,Pavillon du Géant Noir,N
+City;Baltes;70;T,1;LS;E,Magicien Fou,O;E,Voleur,106;W,3,5;SE,4,Barbier,N
+City;Herat;36;D,2;T,1;S,12;S,17;W,3,4;SE,11,Serpent,N
+City;Gaya;29;E,Jeu de Dupes,I;GS,5;T,1;S,7;LS;SE,12,Cimetière des éléphants,N
+City;Lhassa;65;W,1,5;H,2;T,1;S,0;S,4;SE,16,Palais de Cristal,N
+City;Kiev;59;W,1,5;E,Soldat Vénérable,L;S,16;D,3;T,1;SE,15,Montagne magnétique,N
+City;Rome;65;E,Horribles Créatures,J;W,1,4;H,3;T,1;LS;SE,9,Palais aux 100 Pièces,N

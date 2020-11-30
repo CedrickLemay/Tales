@@ -1,0 +1,296 @@
+
+	
+DÉMENT:
+	- Effet:	À l'étape de choix de réaction, si on a le status, on choisi au hasard un autre joueur qui choisi la reaction
+	
+	- Defaire:	Quand on donne comme recompense, on verifie si la personne a le status et on l'enleve dans ce cas.
+	
+	
+	
+	
+EMPRISONNÉ:
+	- Effet:	QUAND ON OBTIENT LE STATUS on doit verifier si on a le status "PERDU". Si oui, on le perd. Nos deux deplacement se trouve a 0
+				Au moment de la rencontre, c'est automatiquement un Géolier. l'adjectif est choisi avec un random 1-6
+	
+	- Defaire:	- Une des rencontres le permet
+				- Histoire a 10 ou plus
+					- Si deja a 10, on doit en gagner un de plus
+						-On pourrait donc verifier avant et apres la rencontre si on en gagne 1 ...
+				- Un autre joueur donne un niveau de Fortune. Il doit avoir le skill "Charme" ou "Dérober et Se dérober"
+	
+
+	
+MALADE:
+	- Effet:	Deplacement - 1 (Terre et Mer). Si on paye 3 point de destiné et qu'on est sur la meme case qu'un autre joueur, on peut le rendre malade
+	
+	- Defaire:	Donner un niveau de fortune a un autre joueur sur la meme case que nous et l'autre joueur doit avoir le skill "Erudition"
+
+	
+	
+	
+BLESSÉ:
+	- Effet:	En anglais, on ca dit que certain skill ne sont plus utilisable. En francais, qu'ils perdent un niveau.... va pour Anglais!!
+				Donc je crois que c'est simplement lorsque ca demande de verifier si tu l'as, on doit aussi verifier que tu n'ai pas le status "Blessé"
+	
+	- Defaire:	Skipper un tour (Donc en debut de tour on demande si on veut le skipper si on est Blessé) et perdre 1 point histoire/destiner
+				OU	
+				Donner un point de fortune a un autre joueur, meme case, qui a le skill "Erudition"
+	
+	
+	
+
+ENSORCELÉ:
+	- Effet:	Un joueur au hasard décide ou on se deplace
+	
+	- Defaire:	On lance 2 dé, un qui est le notre, l'autre de l'autre joueur (fuck it, juste un autre dé). Si le notre est plus grand, on perd le status.
+	
+
+
+BÉNI:
+	- Effet:	On peut choisir le resultat de notre lancé de dé(s). On peut regarder les rencontres possibles aux préalables.
+	
+	- Defaire:	Si on fait ca, on doit alors lancé un ( ou 2 si on a decidé qu'on lancait 2 dé). Si le difference entre les deux est plus grande que 1, on 
+				perd le status
+				Si on obtient Maudit, on perd le status (Donc on verifie si on a Béni lorsqu'on obtient Maudit.)
+				
+
+				
+MAUDIT:
+	- Effet:	On choisit quelqu'un d'autre qui choisit notre lancé de dé(s). La personne peut regarder les rencontres possible	
+	
+	- Defaire:	On lance un dé, si une diference de plus de 1, on le perd.
+				Si on obtient Beni, on le perd aussi. Donc pas mal idem a Beni.
+	
+	
+
+	
+AIMÉ:
+	- Effet:	On décide si on accepte ou refuse l'amour. Si oui, on recoit 2 point detineé et on devient Marié.
+				Si non, on lance un dé et on obtient un status selon le resultat
+	
+	- Defaire: on le perd suite au choix.
+	
+		
+	
+ENVOUTÉ:
+	- Effet:	On ne peut pas gagner la partie avec ce status.
+	
+	- Défaire:	Une fois qu'on gagne 3 Point de Destin (on doit donc prendre en note le nombre gagné depuis.
+				On peut aussi s'en débarasser en payant 4 point de Destiné.
+	
+	
+	
+	
+RESPECTÉ:
+	- Effet:	Si on aime pas un dénoument, on peut rebrasser, seulement une fois.
+	
+	- Defaire:	On ne peut pas le perdre
+	
+	
+	
+PERDU:
+	- Effet:	Notre deplacement est reduit a 1. Donc juste un mouvement max! Donc a verifier quand on regarde la distance max parcourue.
+	
+	- Defaire:	Au lieu d'aller avec la rencontre normal, on peut aller avec Completement Perdu (G) et PEUT ETRE le perdre
+				Sinon certaine rencontre peuvent nous le faire perdre aussi.
+				
+				
+				
+CHANGEMENT DE SEXE:
+	- Effet:	On change de sexe. On ne peut pas gagner si on a pas le sexe original.
+				(Certaines rencontre prenne le sexe en conte)
+	
+	- Defaire:	Si on recoit le status de nouveau, on le perd.
+	
+	
+	
+HORS-LA-LOI:
+	- Effet:	La ville la plus proche est selectionné.  Si il y en a 2 a la meme distance, on laise le joueur choisir.
+				On met le jeton Origine dessus. Si on a une rencontre sur la ville, on est emprisonné a la fin de la rencontre.
+				Si on obtient encore le status, lorsqu'on est deja hors la loi, on tombe emprisonné a la fin de la renocntre.
+	
+	- Defaire:	Quand on devient emprisonné. Une fois qu'on l'est, on perd le bouton origine.
+	
+	
+	
+	
+POURSUIVI:
+	- Effet:	Avant notre prochaine rencontre, on lance un dé.  si c'est 1 ou 2, on fait la rencontre Poursuite (H)
+				On doit sauvegarder le nom de l'entité qu'on a rencontré en obtenant Poursuivi. Ca va etre le nom apres "Poursuite" (Esti c'est clair que je vais pas garder "Poursuite")
+	
+	- Defaire: Les rencontres nous le fond perdre.
+	
+	
+	
+	
+AFFLIGÉ:
+	- Effet:	On ne peut plus utiliser nos Skill au premier niveau. Si ils sont au deuxieme, on peut les utiliser au premier niveau
+				Donc si on en a au niveau 2, on ne peut plus regarder les rencontre autour au lieu du dé du destin.
+				Si on a Conteur au niveau 2 habituellement et qu'on depense 2 point de destiné, un autre joueur sur la
+					meme case que nous peut devenir affligé.
+	
+	- Defaire:	Quand on atteind 8 point d'histoire. Si on a deja 8, on doit en obtenir 1 de plus.
+	
+	
+
+FORME ANIMALE:
+	- Effet:	On ne peut plus choisir Courtiser comme reaction. Si on doit le faire, alors on obtient Méprisé.
+				Par exemple, le status Amoureux nous pousse a Courtiser.
+				On ne peut pas obtenir ou utiliser le Skill Seduction et Apparance tant qu'on a ce Statut.
+	
+	- Defaire:	On peut donner un niveau de fortune a un joueur qui a Magie et qui est sur notre case.
+				Obtenir de nouveau le status ne fait rien. 
+				
+				
+				
+INVALIDE:
+	- Effet:	Deplacement réduit de 1 pour terre et mer. On ne peut pas gagner ou utiliser Seduction et Apparence
+				Les recompense de Point Histoire sont doublée.
+	
+	- Defaire:	Si on gange Béni ou Respecté, on le perd.
+	
+	
+
+DÉTERMINÉ:
+	- Effet:	On peut  décider de rejeter le dénoument d'une rencontre et réagir différement 
+				(donc on reaffiche les choix)	
+	
+	- Defaire:	Aucun moyen de le perdre vraiment.
+	
+	
+ASSERVI:
+	- Effet:	Un autre joueur devient notre "maitre". Il obtient tout nos points de Destiné obtenu
+				Il obtient aussi les trésor.
+				Donc les joueur devrait avoir une variable joueur qui désigne le maitre.
+	
+	- Defaire:	Si on obtient un niveau de fortune, on peut l'utiliser pour ne plus etre asservi.
+				Il ne va a personne
+				On doit donc verifier a chaque fois qu'on obtient un niveau de fortune si on est asservi.
+	
+	
+
+
+ENVIEUX:
+	- Effet:	On ne peut pas gagner la partie avec ce statut.
+				Si on a le choix de Voler, on est obliger de le faire.
+				(On doit donc avoir une facon de savoir le mot ...)
+	
+	- Defaire:	Echangé 3 point de destiné pour avoir En Pélerinage
+				Gagner 2 point de Fortune	
+				Ganger un Trésor
+	
+	
+
+EN PÈLERINAGE:			(SI ON DEPLACE LE MARQUEUR DESTINATION, ON PERT LE STATUT)
+	- Effet:	On ne peut pas gagner la partie avec ce statut.	
+	
+	- Defaire:	On place le marqueur Destination sur une ville a une distance de PLUS de 4 de La Mecque
+				On doit faire une rencontre dans la cité.
+				On revient ensuite à La Mecque et on fait une rencontre.
+				On perd ensuite le Statut.
+				Si on reussi le pelerinage (???) on obtient 2 point Destiné.
+												 On obtient 1 point Histoire
+												 On obtient Piété, ou on l'upgrade.
+	
+
+	
+FRAPPÉ PAR LE DESTIN:
+	- Effet:	Un autre joueur choisi la rencontre entre les 12. Il peut les regarder avant de choisir.
+	
+	- Defaire:	Si on gagne 4 point de destiné/histoire (combiné) on perd le status. 
+				(on doit donc prendre en note le nombre total recu. il nous faut une variable pour ce genre de chose)
+	
+	
+
+	
+ROBE D'HONNEUR:
+	- Effet:	On gagne immédiatement un point Destinée
+				On obtient immédiattement  le status Respecté et le skill Sagesse
+	
+	- Defaire:	On ne peut pas le perdre.
+	
+	
+	
+MÉPRISÉ:
+	- Effet:	Tout les point de Destin deviennent des point d'histoire.
+				On ne peut pas recevoir de skill ou de niveau de fortune
+	
+	- Defaire:	Payer un point de Destiné et on a "En Pélerinage"
+				Si on en a pas , alors on tombe automatiquement en pélerinage
+	
+
+
+SULTAN:
+	- Spécial:	Si on a pas 12 point combiné, on obtient Vizir a la place.
+	
+	- Effet:	Notre fortune devient immédiatement fabuleuse.
+				Quand on se deplace, on compte seulement les villes. 
+					Donc on verifie juste le max des deux type de mouvement et on check selon ca.
+				Ca dit " a moins qu'on arrete ailleur qu'une ville"
+					Je pense qu'on devrait compté genre : on enleve le nomnbre de ville visité au deplacement max et on calcul selon ca ?
+					
+
+					
+					
+MARIÉ:
+	- Effet:	On gagne immédiatement 1 point d'histoire.
+				La prochaine fois qu'on rencontre une ville, on y met notre jeton Origine.
+				Si on est deja sur une ville, on la met la. 
+					Donc quand obtient le status, on enleve le jeton origine si on l'a.
+					Ensuite a chaque fois qu'on arrive dans une ville, on verifie si on a le jeton origine de placé.
+				A CHAQUE FOIS qu'on a une rencontre dans une autre ville, on doit retourner a notre ville d'origine
+				 avant de pouvoir entrer dans une autre ville.
+					Donc on doit avoir une variable dans le genre MarierVilleVisiter = vrai qui va bloquer les
+					arret possible dans les autres villes excepter la notre.
+					
+				Chaque fois qu'on revient à la maison (avec la variable a vrai), on  gagne 1 Point d'hisoitre 
+				et on lance 2 dé:
+					2: 	 Status AFFLIGÉ
+					3-7: Rien
+					8-10: 1 point destiné.
+					11-12: 2 point destiné, status RESPECTÉ
+					
+	- Defaire:	Aucune facon de s'en defaire (peut etre une rencontre? mais sinon non)
+	
+
+					
+					
+AMOUREUX:
+	- Effet:	On lancé UN dé:
+					1-3: Rencontre Belle Jeune fille ou Soldat Elegant (L)
+							(depend du sexe)
+					4-6: Rencontre Belle Princesse ou Prince Élégant 	(A)
+					
+				On est obligé de choisir Courtiser comme reaction
+				
+	- Defaire:
+				Aussitot la rencontre fait, on se debarasse de la carte.
+				Si on a le Status MARIÉ, alors on obtient le statut AFFLIGÉ à la place
+					et on perd cette carte
+					
+					
+					
+					
+VIZIR:
+	- Effet:	On recoit 1 point destinée et 1 point histoire
+				On monte d'un niveau le Skill Courtoisie et Sagesse
+				On place le jeton Origine :
+											- dans la cité qu'on est
+											- dans la plus proche
+											- au choix si plusieurs proche.
+				Quand on a une rencontre dans une autre cité, on doit revenir a la celle d'origine
+				avant de pouvoir retourner dans une autre. Donc similaire a Marié.
+				
+				Si on a le Skill Piété et Érudition au niveau Magistral ( donc au plus haut j'imagine ) 
+				et qu'on a un total de point d'au moins 12, on se debarasse de VIZIR et on obtient SULTAN
+	- Defaire:
+	
+	
+						
+					
+					
+	
+
+
+	
+	
